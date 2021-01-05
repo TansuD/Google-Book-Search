@@ -20,7 +20,7 @@
   "homepage": "https://github.com/TansuD/Google-Book-Search#readme",
   "dependencies": {
     "add": "^2.0.6",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.3.1",
     "express": "^4.17.1",
     "mongoose": "^5.6.9",
